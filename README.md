@@ -1,6 +1,6 @@
 # Titanic Survivors Analysis 🚢
 ## Data Analysis and Prediction of Survivors on the Titanic Dataset
-
+My first data analysis/data visualization using Python and required modules and libraries.
 ## Overview
 
 ### Kaggle Competition | Titanic Machine Learning from Disaster
@@ -13,8 +13,22 @@ Here, we try to analyze which factors were more likely to contribute to the deat
 This Kaggle Getting Started Competition provides an ideal starting place for people who may not have a lot of experience in data science and machine learning.
 
 
+### Dependencies
+- pandas.
+- numpy.
+- matplotlib.
+- math.
+- sklearn.
+- scipy.
 
-Using the data set, The following questions will be investigated:
+### Features
+- Dataset based on a CSV file : The data has been split into two groups: training set (train.csv) test set (test.csv)
+While the training set is used to build our machine learning models, the test set is used to see how well our model performs on unseen data.
+- NumPy with Pandas to merge, group, and aggregate various data
+- Matplotlib with Seaborn for the scatterplot visualization.
+
+### What is to be done?
+Using the data set, The following questions will be explored and analyzed:
 
 - How do the summary statistics of passengers, including their age, gender, and class of ticket,vary by survival?
 - What is the relationship between passenger's age and their chance of survival?
@@ -23,6 +37,18 @@ Using the data set, The following questions will be investigated:
 - What is the relationship between passenger's class of cabin and their chance of survival?
 - What is the relationship between port of embarkation and chance of survival?
 - How did different factors interact in determining the chance of survival?
+
+ & For each passenger in the test set, Our model will be trained to predict whether or not they survived the sinking of the Titanic.
+
+### How to?
+- Import the data.
+- Describe the data.
+- Clean the data: Data cleansing
+- Visualize it's features using some of the Data Visualization Techniques.
+- Select features.
+- Apply Machine Learning Algorithm, like Random Forest, Support Vector Machine, Logistic Regression, Gradient Boosting Classifier, and evaluate its model's accuracy, using confusion matrix.
+- Apply Machine Learning Algorithm from scratch, like Logistic regression, to Titanic Dataset.
+
 
 
 ### The data set
@@ -41,6 +67,8 @@ Using the data set, The following questions will be investigated:
 |Cabin|Cabin|
 |Embarked|Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)|
 
+
+You can view a description of this dataset on the Kaggle website (kaggle.com/c/titanic), where the data was obtained.
 
 ### Results
 
