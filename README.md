@@ -71,7 +71,7 @@ Using the data set, The following questions will be explored and analyzed:
 |Embarked|Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)|
 
 
-You can view a description of this dataset on the [Kaggle website](https://www.kaggle.com/c/titanic), where the data was obtained.
+You can view a description of this dataset on the [Kaggle website](https://www.kaggle.com/c/titanic)- the original source.
 
 ### Results
 
