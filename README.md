@@ -1,6 +1,6 @@
 # Titanic Survivors Analysis 🚢
 ## Data Analysis and Prediction of Survivors on the Titanic Dataset
-My first data analysis/data visualization using Python and required modules and libraries.
+This would be my first data analysis/data visualization using Python on Kaggle.
 
 P.S: It isn't complete...yet.
 
