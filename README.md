@@ -51,8 +51,7 @@ Using the data set, The following questions will be explored and analyzed:
 - Clean the data: Data cleansing
 - Visualize it's features using some of the Data Visualization Techniques.
 - Select features.
-- Apply Machine Learning Algorithm, like Random Forest, Support Vector Machine, Logistic Regression, Gradient Boosting Classifier, and evaluate its model's accuracy, using confusion matrix.
-- Apply Machine Learning Algorithm from scratch, like Logistic regression, to Titanic Dataset.
+- Apply Machine Learning Algorithms to the dataset, like Support Vector Machine, Logistic Regression etc, and evaluate the model's accuracy, using Confusion matrix.
 
 
 
