@@ -35,7 +35,7 @@ This Kaggle Getting Started Competition provides an ideal starting place for peo
 ### What is to be done?
 Using the data set, The following questions will be explored and analyzed:
 
-- How do the summary statistics of passengers, including their age, gender, and class of ticket,vary by survival?
+- How do the summary statistics of passengers, including their age, gender, and class of ticket vary by survival?
 - What is the relationship between passenger's age and their chance of survival?
 - What is the relationship between passenger's gender and their chance of survival?
 - What is the relationship between passenger's ticket fare and their chance of survival?
