@@ -59,7 +59,7 @@ Using the data set, The following questions will be explored and analyzed:
 | Variable Name |  Variable Description |
 |---------------|-----------------------|
 |PassengerID| Passenger ID|
-|   Survived  |  Survival (0 = No;1 = Yes)|
+|   Survived  |  Survival (0 = No; 1 = Yes)|
 |Pclass|Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)|
 |Name|Name|
 |Sex|Sex|
