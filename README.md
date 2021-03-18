@@ -27,7 +27,7 @@ This Kaggle Getting Started Competition provides an ideal starting place for peo
 - scipy.
 
 ### Features
-- Dataset based on a CSV file : The data has been split into two groups: training set (train.csv) test set (test.csv).
+- Dataset based on a CSV file : The data has been split into two groups: training set (train.csv) & test set (test.csv).
   While the training set is used to build our machine learning models, the test set is used to see how well our model performs on unseen data.
 - NumPy with Pandas to merge, group, and aggregate various data
 - Matplotlib with Seaborn for the scatterplot visualization.
