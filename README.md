@@ -75,5 +75,4 @@ Using the data set, The following questions will be explored and analyzed:
 You can view a description of this dataset on the [Kaggle website](https://www.kaggle.com/c/titanic)- the original source.
 
 ### Results
-
-It can be seen that the total number of passengers in this data set is 891, among which 549 (61.62%) died in the disaster and 342 (38.38%) survived.
+......
